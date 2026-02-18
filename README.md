@@ -2,12 +2,6 @@
 
 I'm a PhD student at the University of Calgary, researching CMOS Image Sensors with a focus on achieving high-speed and wide dynamic range performance.
 
-### 📈 My GitHub Stats
-![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinatkin&show_icons=true)
-
-### 📚 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinatkin&langs_count=20&layout=compact)
-
 Some Languages like Python and Javascript are definitely underrepresetned as they are in organizations. 
 
 ### 🔗 Connect with Me
