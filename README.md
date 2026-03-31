@@ -2,8 +2,6 @@
 
 I'm a PhD student at the University of Calgary, researching CMOS Image Sensors with a focus on achieving high-speed and wide dynamic range performance.
 
-Some Languages like Python and Javascript are definitely underrepresetned as they are in organizations. 
-
 ### 🔗 Connect with Me
 - **University of Calgary - I2Sense Laboratory**: [i2sense.ucalgary.ca](https://i2sense.ucalgary.ca/)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devinatkin)
